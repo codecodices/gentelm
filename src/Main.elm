@@ -4,4 +4,4 @@ import Html exposing (text)
 
 
 main =
-    text "Hello there!"
+    text "Hello there for GitHub Desktop!"
